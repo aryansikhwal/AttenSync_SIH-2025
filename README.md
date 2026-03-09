@@ -6,7 +6,7 @@ This repository is designed to demonstrate **end-to-end system engineering**: ha
 
 ---
 
-##  Project Summary 
+##  Project Summary     
 
 -- Built a complete system end-to-end (hardware → cloud-style web app)  
 -- API + database driven backend with real-time attendance ingestion  
